@@ -1,3 +1,4 @@
+Copyright 2017 Prabhakar Shrestha 
 # program_main.R is part of ccnFits.
 
 #    ccnFits is free software: you can redistribute it and/or modify
