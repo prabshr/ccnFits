@@ -1,0 +1,15 @@
+
+This code was initially devloped to fit the CCN spectra as a function of wind speed, temperature
+and pressure. The R scripts are located in the R/ccn folder. It makes use of series of R functions
+listed in the R/functions_met directory 
+
+I would appreciate feedback from users of this package.  Please suggest comments,
+suggestions, and issue reports to https://github.com/prabshr/ccnFits.git
+
+Author Contact: Prabhakar Shrestha
+                pshrestha@uni-bonn.de
+
+Use of the software:
+
+The authors name and the git repository should be appropriately cited for any use of this software.
+ 
